@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 LoL Discord Queue Bot
 =======
 Automated Discord Queue Bot
